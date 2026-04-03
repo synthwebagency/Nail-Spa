@@ -1,0 +1,5 @@
+{
+  "name": "The Nail Spa - Luxury Nail Salon Maputo",
+  "description": "A premium, modern website for The Nail Spa in Maputo, Mozambique, featuring luxurious nail care services, real reviews, and interactive maps.",
+  "requestFramePermissions": ["geolocation"]
+}
